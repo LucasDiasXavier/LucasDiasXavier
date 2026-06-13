@@ -65,7 +65,7 @@ Ainda tenho muito a aprender — e é exatamente isso que me faz acordar todo di
 | **[Fanta](https://github.com/LucasDiasXavier/Fanta)** | Projeto desenvolvido como exercício prático de HTML estruturado | `HTML` | [Ver projeto](https://github.com/LucasDiasXavier/Fanta) |
 | **[Uma Era Artificial](https://github.com/LucasDiasXavier/uma-era-artificial)** | Página web com temática futurista e tecnológica | `HTML` | [Ver projeto](https://github.com/LucasDiasXavier/uma-era-artificial) |
 | **[Imobiliária Santos](https://github.com/LucasDiasXavier/IMOBILIARIA-SANTOS)** | Site institucional para imobiliária com layout profissional | `HTML` | [Ver projeto](https://github.com/LucasDiasXavier/IMOBILIARIA-SANTOS) |
-| **[Loja de Animais de Estimação](https://github.com/LucasDiasXavier/loja-de-animais-de-estimacao)** | E-commerce de pet shop com estrutura completa | `HTML` | [Ver projeto](https://github.com/LucasDiasXavier/loja-de-animais-de-estimacao) |
+| **[Loja de Animais de Estimação](https://github.com/LucasDiasXavier/loja-de-animais-de-estimacao)** | E-commerce de pet shop com estrutura completa | `HTML` | [Ver projeto](https://[github.com/LucasDiasXavier/loja-de-animais-de-estimacao](https://github.com/LucasDiasXavier/pet-boutique.git)) |
 | **[Projeto Cafeteria](https://github.com/LucasDiasXavier/projeto-cafeteria)** | Landing page de cafeteria com design moderno | `HTML` | [Ver projeto](https://github.com/LucasDiasXavier/projeto-cafeteria) |
 | **[Alfatech](https://github.com/LucasDiasXavier/alfatech)** | Site para empresa de tecnologia | `HTML` | [Ver projeto](https://github.com/LucasDiasXavier/alfatech) |
 
