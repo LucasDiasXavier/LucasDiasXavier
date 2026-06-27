@@ -88,6 +88,7 @@ Cada repositório aqui é uma prova disso.
 
 <div align="center">
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucas-dias-dev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dias-xavier-517aa8370)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasdias.tech@gmail.com)
 
